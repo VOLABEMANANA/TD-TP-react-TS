@@ -1,0 +1,33 @@
+.Card{
+    margin-top: 2%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.card{
+    border: solid 0px;
+    margin-left: -90px;
+    margin-right: 100px;
+    margin-top: -10px;
+    padding:0 130px 0 130px;
+    border-color: rgb(8, 8, 8);
+    height: 550px;
+    text-decoration: underline;
+    text-decoration-color: rgb(224, 219, 219);
+
+}
+h2{
+    margin-top: 2px;
+    color: rgb(150, 140, 140);
+    font-family: 'Courier New', Courier, monospace;
+}
+.todo {
+    background-color: rgb(17, 16, 16,0.30);
+}
+.doing{
+    background-color: rgb(17, 16, 16,0.30);
+}
+.done{
+    background-color:  rgb(17, 16, 16,0.30);
+}
